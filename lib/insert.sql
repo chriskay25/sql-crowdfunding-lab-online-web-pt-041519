@@ -88,4 +88,7 @@ VALUES ("Jenna", 24);
 INSERT INTO users (name, age) 
 VALUES ("Jeff", 25);
 
+INSERT INTO pledges (amount, user_id, project_id) 
+VALUES ();
+
 
