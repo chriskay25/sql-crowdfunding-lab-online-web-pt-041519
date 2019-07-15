@@ -27,3 +27,6 @@ VALUES ("project_9", "math", 4000, "01-15-2020", "03-01-2020");
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("project_10", "cs", 7000, "10-31-2019", "12-25-2019");
+
+INSERT INTO users (name, age) 
+VALUES ("Frank", 20);
