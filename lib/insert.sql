@@ -30,3 +30,62 @@ VALUES ("project_10", "cs", 7000, "10-31-2019", "12-25-2019");
 
 INSERT INTO users (name, age) 
 VALUES ("Frank", 20);
+
+INSERT INTO users (name, age) 
+VALUES ("Fred", 22);
+
+INSERT INTO users (name, age) 
+VALUES ("Felicia", 24);
+
+INSERT INTO users (name, age) 
+VALUES ("Florence", 25);
+
+INSERT INTO users (name, age) 
+VALUES ("Felipe", 18);
+
+INSERT INTO users (name, age) 
+VALUES ("Denise", 19);
+
+INSERT INTO users (name, age) 
+VALUES ("Donald", 20);
+
+INSERT INTO users (name, age) 
+VALUES ("Drake", 21);
+
+INSERT INTO users (name, age) 
+VALUES ("Delilah", 22);
+
+INSERT INTO users (name, age) 
+VALUES ("Elena", 23);
+
+INSERT INTO users (name, age) 
+VALUES ("Elliott", 24);
+
+INSERT INTO users (name, age) 
+VALUES ("Elton", 25);
+
+INSERT INTO users (name, age) 
+VALUES ("Elizabeth", 18);
+
+INSERT INTO users (name, age) 
+VALUES ("Heather", 19);
+
+INSERT INTO users (name, age) 
+VALUES ("Harry", 20);
+
+INSERT INTO users (name, age) 
+VALUES ("Hank", 21);
+
+INSERT INTO users (name, age) 
+VALUES ("Horace", 22);
+
+INSERT INTO users (name, age) 
+VALUES ("Hailey", 23);
+
+INSERT INTO users (name, age) 
+VALUES ("Jenna", 24);
+
+INSERT INTO users (name, age) 
+VALUES ("Jeff", 25);
+
+
